@@ -9,8 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@headlessui/react": "^2.1.2",
+    "@heroicons/react": "^2.1.5",
     "axios": "^1.7.3",
     "husky": "^9.1.4",
+    "jotai": "^2.9.2",
     "next": "14.2.5",
     "query-string": "^9.1.0",
     "react": "^18",
